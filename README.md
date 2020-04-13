@@ -19,7 +19,7 @@ Expressions:
 
 Data-set and File Format:
 
-It was collected from
+Audio files were collected from
 https://zenodo.org/record/1188976/#.XpRg1HUzY5k
 
 Description:
